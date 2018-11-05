@@ -1,0 +1,8 @@
+---
+- name: Install PHPLOC.
+  become: yes
+  get_url:
+    url: https://phar.phpunit.de/phploc.phar
+    dest: /usr/local/bin/phploc
+    mode: 0755
+    force: yes
