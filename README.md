@@ -1,5 +1,6 @@
 PHPLOC Ansible role
 =========
+[![Build Status](https://travis-ci.com/devsoul/ansible-role-phploc.svg?branch=master)](https://travis-ci.com/devsoul/ansible-role-phploc)
 
 If you are a PHP developer and you use PHPLOC.
 
